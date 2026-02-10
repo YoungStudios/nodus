@@ -1,1 +1,16 @@
 
+{
+  "name": "nodus-ai-chat",
+  "version": "1.0.0",
+  "description": "Nodus AI Chat Interface",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
